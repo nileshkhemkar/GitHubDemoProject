@@ -3,3 +3,6 @@ File 2 Sample File
 
 File 3 Sample File
 File 4 Samplee File
+File 5 added file.
+To Mimik the conflict scenarios....
+and how to resolve conflicts....
