@@ -1,0 +1,5 @@
+public status main() {
+
+}
+
+class file sample
